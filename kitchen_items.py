@@ -14,7 +14,7 @@ kitchen_items = [
     "Microwave",
     "Cupboard",
     "Sink",
-    "Air Fryer",
+    "Air-Fryer",
     "Spatula"
 ]
 
