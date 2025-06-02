@@ -11,7 +11,10 @@ kitchen_items = [
     "Pot",
     "Cutting board",
     "Blender",
-    "Microwave"
+    "Microwave",
+    "Cupboard",
+    "Sink",
+    "Air Fryer"
 ]
 
 # Print the list
